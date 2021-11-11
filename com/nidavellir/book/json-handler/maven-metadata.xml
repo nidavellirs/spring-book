@@ -3,10 +3,10 @@
   <groupId>com.nidavellir.book</groupId>
   <artifactId>json-handler</artifactId>
   <versioning>
-    <release>1.0.0.RELEASE</release>
+    <release>2.0.0.RELEASE</release>
     <versions>
-      <version>1.0.0.RELEASE</version>
+      <version>2.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20191205055142</lastUpdated>
+    <lastUpdated>20211111120510</lastUpdated>
   </versioning>
 </metadata>
